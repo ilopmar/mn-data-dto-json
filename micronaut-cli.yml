@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: data.mysql.json
+---
+testFramework: spock
+sourceLanguage: java
